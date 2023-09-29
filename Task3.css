@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    background-color: rgb(117, 102, 215);
+    height: 22px;
+    padding: 22px;
+}
+
+nav a {
+    /* padding: 12px; */
+    margin: 20px;
+    color: white;
+    font-size: 19px;
+}
+
+#first {
+    border: 6px solid yellow;
+
+}
+
+#second {
+    border: 6px double red;
+
+}
+
+#third {
+    border: 6px dotted green;
+
+}
+
+#fourth {
+    border: 6px dashed blue;
+
+}
+
+#fifth {
+    border: 6px groove black;
+}

@@ -1,0 +1,22 @@
+div{
+    width: 280px;
+    height: 250px;
+    background-color: rgb(234, 245, 13);
+    margin: 0 auto;
+    border-radius: 10%;
+}
+
+img{
+    margin: 10px 17px 0px 16px;
+    width: 243px;
+    height: 170px;
+    border-radius: 10%;
+}
+
+div p{
+    margin: 10px 17px 0px 11px;
+}
+
+.card:hover{
+    opacity: 0.5;
+}
